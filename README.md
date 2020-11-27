@@ -156,3 +156,9 @@ Generates a strong CSP for the base template.
 ## Disclaimer
 
 This is not an officially supported Google product, but rather [Malte's](https://twitter.com/cramforce) private best-effort open-source project.
+
+## License
+
+This library is released under BSD-3 license clause.
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2F0-vortex%2Feleventy-high-performance-blog-plus.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2F0-vortex%2Feleventy-high-performance-blog-plus?ref=badge_large)
