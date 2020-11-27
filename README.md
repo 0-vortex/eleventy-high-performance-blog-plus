@@ -3,6 +3,7 @@
 A starter repository for building a blog with the [Eleventy static site generator](https://www.11ty.dev/) implementing a wide range of performance best practices.
 
 ![Screenshot showing that the site achieves 100 points on Lighthouse by default](https://cdn.glitch.com/db98564e-04da-47bf-a3d6-70803c3d0fe7%2FScreen%20Shot%202020-09-04%20at%2012.07.27.png?v=1599214260591)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2F0-vortex%2Feleventy-high-performance-blog-plus.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2F0-vortex%2Feleventy-high-performance-blog-plus?ref=badge_shield)
 
 Based on the awesome [eleventy-base-blog](https://github.com/11ty/eleventy-base-blog).
 
@@ -150,3 +151,7 @@ Generates a strong CSP for the base template.
 ## Disclaimer
 
 This is not an officially supported Google product, but rather [Malte's](https://twitter.com/cramforce) private best-effort open-source project.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2F0-vortex%2Feleventy-high-performance-blog-plus.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2F0-vortex%2Feleventy-high-performance-blog-plus?ref=badge_large)
