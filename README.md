@@ -1,4 +1,10 @@
-# eleventy-high-performance-blog
+# eleventy-high-performance-blog-plus
+
+[![CI](https://github.com/0-vortex/eleventy-high-performance-blog-plus/workflows/CI/badge.svg)](https://github.com/0-vortex/eleventy-high-performance-blog-plus/actions?query=workflow%3ACI)
+ [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2F0-vortex%2Feleventy-high-performance-blog-plus.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2F0-vortex%2Feleventy-high-performance-blog-plus?ref=badge_shield)
+
+[![Commitizen Friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+ [![License](https://img.shields.io/github/license/0-vortex/eleventy-high-performance-blog-plus)](./LICENSE)
 
 A starter repository for building a blog with the [Eleventy static site generator](https://www.11ty.dev/) implementing a wide range of performance best practices.
 
@@ -109,7 +115,7 @@ npm run build
 - Supports locally serving Google Analytics's JS and proxying it's hit requests to a Netlify proxy (other proxies could be easily added).
 - Support for noscript hit requests.
 - Avoids blocking onload on analytics requests.
-- To turn this on, specify `googleAnalyticsId` in `metadata.json`. 
+- To turn this on, specify `googleAnalyticsId` in `metadata.json`.
 
 ### DX features
 
