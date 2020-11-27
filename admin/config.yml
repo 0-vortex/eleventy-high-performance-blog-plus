@@ -1,0 +1,20 @@
+backend:
+  name: github
+  repo: 0-vortex/eleventy-high-performance-blog-plus
+  branch: main
+  site_domain: modest-newton-1bb49c.netlify.app
+media_folder: "img/remote"
+public_folder: "/img/remote"
+collections:
+  - name: "blog"
+    label: "Blog"
+    folder: "posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/post.njk"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Featured Image", name: "image", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}
