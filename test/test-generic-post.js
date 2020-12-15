@@ -44,14 +44,14 @@ describe("check build output for a generic post", () => {
     });
 
     it("should have metadata", () => {
-      assert.equal(select("title"), "This is my first post.");
+      assert.equal(select("title"), "Part 1: Using OnlyDomains to register a new domain");
       expect(select("meta[property='og:image']", "content")).to.match(
         /\/img\/remote\/\w+.jpg/
       );
       assert.equal(select("link[rel='canonical']", "href"), POST_URL);
       assert.equal(
         select("meta[name='description']", "content"),
-        "This is a post on My Blog about agile frameworks."
+        "This is a post describing how to set up a domain using onlydomains.com."
       );
     });
 
@@ -114,14 +114,14 @@ describe("check build output for a generic post", () => {
     });
 
     it("should have a header", () => {
-      expect(select("header > h1")).to.equal("This is my first post.");
+      expect(select("header > h1")).to.equal("Part 1: Using OnlyDomains to register a new domain");
       expect(select("header aside")).to.match(/\d+ min read./);
       expect(select("header dialog", "id")).to.equal("message");
     });
 
     it("should have a published date", () => {
-      expect(select("article time")).to.equal("01 May 2018");
-      expect(select("article time", "datetime")).to.equal("2018-05-01");
+      expect(select("article time")).to.equal("13 Dec 2020");
+      expect(select("article time", "datetime")).to.equal("2020-12-13");
     });
 
     it("should link to twitter with noopener", () => {
@@ -149,7 +149,7 @@ describe("check build output for a generic post", () => {
         const picture = pictures[0];
         const sources = Array.from(picture.querySelectorAll("source"));
         expect(sources).to.have.length(2);
-        expect(img.src).to.match(/\/img\/remote\/\w+\.jpg/);
+        expect(img.src).to.match(/\/img\/remote\/\w+\.png/);
         expect(metaImage).to.equal(URL + img.src);
         // Comment back in when avif is stable enough.
         //const avif = sources.shift();
@@ -186,7 +186,7 @@ describe("check build output for a generic post", () => {
         const obj = JSON.parse(json);
         expect(obj.url).to.equal(POST_URL);
         expect(obj.description).to.equal(
-          "Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster..."
+          "OnlyDomains is a great domain registrar with lightning-fast domain name activation and customer support, the only two important metrics for..."
         );
         expect(obj.image.length).to.be.greaterThan(0);
         obj.image.forEach((url, index) => {
