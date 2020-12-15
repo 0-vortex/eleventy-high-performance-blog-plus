@@ -149,7 +149,7 @@ describe("check build output for a generic post", () => {
         const picture = pictures[0];
         const sources = Array.from(picture.querySelectorAll("source"));
         expect(sources).to.have.length(2);
-        expect(img.src).to.match(/\/img\/remote\/\w+\.png/);
+        expect(img.src).to.match(/\/img\/remote\/\w+\.jpg/);
         expect(metaImage).to.equal(URL + img.src);
         // Comment back in when avif is stable enough.
         //const avif = sources.shift();
