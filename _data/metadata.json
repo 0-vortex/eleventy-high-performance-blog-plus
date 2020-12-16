@@ -1,25 +1,25 @@
 {
-  "title": "Title of the website. Update me.",
-  "url": "https://update-me.com",
-  "domain": "update-me.com",
-  "description": "Description of the website. Update me.",
-  "genre": "Insert a schema.org genre",
+  "title": "Industrial Empathy 11ty on GitHub Pages, CloudFlare CDN and Netlify CMS",
+  "url": "https://avortex.online",
+  "domain": "avortex.online",
+  "description": "How to set up Industrial Empathy (IE) Eleventy (11ty) template on GitHub (GH) Pages behind CloudFlare (CF) Edge CDN and edit markdown using Netlify CMS",
+  "genre": "Blog",
   "googleAnalyticsId": "GA ID. Update me",
   "feed": {
-    "subtitle": "Subtitle. Update me.",
+    "subtitle": "Generic tech feed",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://update-me.com"
+    "id": "https://avortex.online"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://update-me.com/feed/feed.json"
+    "url": "https://avortex.online/feed/feed.json"
   },
   "author": {
-    "name": "Author Name. Update me.",
-    "twitterHandle": "update_me"
+    "name": "TED Vortex",
+    "twitterHandle": "0_vortex"
   },
   "publisher": {
-    "name": "Publisher name. Update me."
+    "name": "TED Vortex"
   }
 }

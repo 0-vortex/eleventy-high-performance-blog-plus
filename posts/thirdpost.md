@@ -1,28 +1,13 @@
 ---
-title: This is my third post.
-description: This is a post on My Blog about win-win survival strategies.
-date: 2018-08-24
+title: "Part 3: Using GitHub to set up Industrial Empathy"
+description: This is a post describing how to set up Industrial Empathy 11ty template on github.com.
+date: 2020-12-15
 tags:
-  - second-tag
+  - github
 layout: layouts/post.njk
+image: https://gist.githubusercontent.com/0-vortex/8c1147b957f88b7ceaa85d3b22843803/raw/b04507cbedd3e21055df25c28b281e94bb119117/splash-github.png
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-``` js/2/4
-// this is a command
-function myCommand() {
-	let counter = 0;
+## What is GitHub
 
-	counter++;
-
-}
-
-// Test with a line break above this line.
-console.log('Test');
-```
-
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
-
-## Section Header
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+[![GitHub splash logo](https://gist.githubusercontent.com/0-vortex/8c1147b957f88b7ceaa85d3b22843803/raw/b04507cbedd3e21055df25c28b281e94bb119117/splash-github.png)](https://www.github.com)
