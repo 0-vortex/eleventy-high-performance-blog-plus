@@ -186,7 +186,7 @@ describe("check build output for a generic post", () => {
         const obj = JSON.parse(json);
         expect(obj.url).to.equal(POST_URL);
         expect(obj.description).to.equal(
-          "OnlyDomains is a great domain registrar with lightning-fast domain name activation and customer support, the only two important metrics for..."
+          "What is OnlyDomains # OnlyDomains is a great domain registrar with lightning-fast domain name activation and customer support, the only two..."
         );
         expect(obj.image.length).to.be.greaterThan(0);
         obj.image.forEach((url, index) => {
