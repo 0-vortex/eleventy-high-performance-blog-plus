@@ -5,7 +5,7 @@
 	
 	<link href="https://update-me.com/feed/feed.xml" rel="self"/>
 	<link href="https://update-me.com"/>
-	<updated>2018-09-30T00:00:00-00:00</updated>
+	<updated>2020-12-14T00:00:00+00:00</updated>
 	<id>https://update-me.com</id>
 	<author>
 		<name>Author Name. Update me.</name>
@@ -13,47 +13,9 @@
 	</author>
 	
 	<entry>
-		<title>This is my first post.</title>
-		<link href="https://update-me.com/posts/firstpost/"/>
-		<updated>2018-05-01T00:00:00-00:00</updated>
-		<id>https://update-me.com/posts/firstpost/</id>
-		<content type="html">
-		  &lt;p&gt;Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.&lt;/p&gt;
-&lt;p&gt;Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://cdn.pixabay.com/photo/2020/08/30/20/54/rice-field-5530707_1280.jpg&quot; alt=&quot;An image&quot;&gt;&lt;/p&gt;
-&lt;h2 id=&quot;section-header&quot;&gt;Section Header &lt;a class=&quot;direct-link&quot; href=&quot;#section-header&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.&lt;/p&gt;
-&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;&lt;span class=&quot;highlight-line&quot;&gt;// this is a command&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;function myCommand() {&lt;/span&gt;&lt;br&gt;&lt;mark class=&quot;highlight-line highlight-line-active&quot;&gt;	let counter = 0;&lt;/mark&gt;&lt;br&gt;&lt;mark class=&quot;highlight-line highlight-line-active&quot;&gt;	counter++;&lt;/mark&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;}&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;// Test with a line break above this line.&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;console.log(&#39;Test&#39;);&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
-
-			
-		</content>
-	</entry>
-	
-	<entry>
-		<title>This is my second post.</title>
-		<link href="https://update-me.com/posts/secondpost/"/>
-		<updated>2018-07-04T00:00:00-00:00</updated>
-		<id>https://update-me.com/posts/secondpost/</id>
-		<content type="html">
-		  &lt;p&gt;Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.&lt;/p&gt;
-&lt;h2 id=&quot;section-header&quot;&gt;Section Header &lt;a class=&quot;direct-link&quot; href=&quot;#section-header&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://update-me.com/posts/firstpost/&quot;&gt;First post&lt;/a&gt;&lt;br&gt;
-&lt;a href=&quot;https://update-me.com/posts/thirdpost/&quot;&gt;Third post&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.&lt;/p&gt;
-&lt;p&gt;Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.&lt;/p&gt;
-&lt;h1 id=&quot;test-svg&quot;&gt;Test SVG &lt;a class=&quot;direct-link&quot; href=&quot;#test-svg&quot;&gt;#&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&quot;https://update-me.com/img/share.svg&quot; alt=&quot;Test Share SVG&quot;&gt;&lt;/p&gt;
-&lt;h1 id=&quot;test-relative-local-image&quot;&gt;Test Relative Local Image &lt;a class=&quot;direct-link&quot; href=&quot;#test-relative-local-image&quot;&gt;#&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&quot;https://update-me.com/img/doener.jpg&quot; alt=&quot;Test Share SVG&quot;&gt;&lt;/p&gt;
-
-			
-		</content>
-	</entry>
-	
-	<entry>
 		<title>This is my third post.</title>
 		<link href="https://update-me.com/posts/thirdpost/"/>
-		<updated>2018-08-24T00:00:00-00:00</updated>
+		<updated>2018-08-24T00:00:00+00:00</updated>
 		<id>https://update-me.com/posts/thirdpost/</id>
 		<content type="html">
 		  &lt;p&gt;Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.&lt;/p&gt;
@@ -69,7 +31,7 @@
 	<entry>
 		<title>This is my fourth post.</title>
 		<link href="https://update-me.com/posts/fourthpost/"/>
-		<updated>2018-09-30T00:00:00-00:00</updated>
+		<updated>2018-09-30T00:00:00+00:00</updated>
 		<id>https://update-me.com/posts/fourthpost/</id>
 		<content type="html">
 		  &lt;p&gt;Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.&lt;/p&gt;
@@ -77,6 +39,99 @@
 &lt;p&gt;&lt;img src=&quot;https://cdn.pixabay.com/photo/2020/08/25/11/11/zebra-5516455_1280.jpg&quot; alt=&quot;An image&quot;&gt;&lt;/p&gt;
 &lt;h2 id=&quot;section-header&quot;&gt;Section Header &lt;a class=&quot;direct-link&quot; href=&quot;#section-header&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.&lt;/p&gt;
+
+			
+		</content>
+	</entry>
+	
+	<entry>
+		<title>Part 1: Using OnlyDomains to register a new domain</title>
+		<link href="https://update-me.com/posts/firstpost/"/>
+		<updated>2020-12-13T00:00:00+00:00</updated>
+		<id>https://update-me.com/posts/firstpost/</id>
+		<content type="html">
+		  &lt;h2 id=&quot;what-is-onlydomains&quot;&gt;What is OnlyDomains &lt;a class=&quot;direct-link&quot; href=&quot;#what-is-onlydomains&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.onlydomains.com/&quot;&gt;&lt;img src=&quot;https://gist.githubusercontent.com/0-vortex/8c1147b957f88b7ceaa85d3b22843803/raw/b04507cbedd3e21055df25c28b281e94bb119117/splash-onlydomains.jpg&quot; alt=&quot;OnlyDomains splash logo&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://onlydomains.com/&quot;&gt;OnlyDomains&lt;/a&gt; is a great domain registrar with lightning-fast domain name activation and customer support, the only two important metrics for this tutorial. The full list of potential bottlenecks is endless, here are some of my favorites:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;account registration complexity&lt;/strong&gt;: domain identity forces you to have a loose KYC verification with your service provider and as such it can depend on a lot of things.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;account security options&lt;/strong&gt;: multi-factor authentication, IP address whitelisting, session management, etc with a variable level of paranoia.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;domain identity management&lt;/strong&gt;: before actually purchasing a domain name, you should have a clear sense of the legal and public contact information, sometimes this step is auto-completed and requires adjustment.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;payment processor verification&lt;/strong&gt;: while most of the global gateways enable for an almost instant check-out, verification processes can require additional information.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;name server manipulation&lt;/strong&gt;: this one should be straightforward but it ultimately depends on the TLD you picked for your domain name.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;DS record manipulation&lt;/strong&gt;: the DS record, being generated by a third party, requires manual intervention from most service providers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;using-onlydomains&quot;&gt;Using OnlyDomains &lt;a class=&quot;direct-link&quot; href=&quot;#using-onlydomains&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;sign-up-for-a-new-account&quot;&gt;Sign up for a new account &lt;a class=&quot;direct-link&quot; href=&quot;#sign-up-for-a-new-account&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;In order to successfully manage a domain you need to set up an account with a domain name registrar.&lt;/p&gt;
+&lt;p&gt;Proceed to logging in or create a new account:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gist.githubusercontent.com/0-vortex/8c1147b957f88b7ceaa85d3b22843803/raw/e9b2f4bba1d9023c87881108bed95f8b1490683a/onlydomains-sign-up.png&quot; alt=&quot;sign up&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;enable-multi-factor-authentication&quot;&gt;Enable multi-factor authentication &lt;a class=&quot;direct-link&quot; href=&quot;#enable-multi-factor-authentication&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Once registered, make sure to set up at least one type of multi-factor authentication.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gist.githubusercontent.com/0-vortex/8c1147b957f88b7ceaa85d3b22843803/raw/e9b2f4bba1d9023c87881108bed95f8b1490683a/onlydomains-two-factor.png&quot; alt=&quot;two factor&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;register-a-new-domain-name&quot;&gt;Register a new domain name &lt;a class=&quot;direct-link&quot; href=&quot;#register-a-new-domain-name&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Spend some time deciding what name identity you want to go with, or just pick a fast and easy to set up gTLD like &lt;code&gt;.online&lt;/code&gt; and be done with it:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gist.githubusercontent.com/0-vortex/8c1147b957f88b7ceaa85d3b22843803/raw/e9b2f4bba1d9023c87881108bed95f8b1490683a/onlydomains-domain-register.png&quot; alt=&quot;domain register&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;update-domain-name-servers&quot;&gt;Update domain name servers &lt;a class=&quot;direct-link&quot; href=&quot;#update-domain-name-servers&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Click on &amp;quot;Domains&amp;quot; -&amp;gt; &amp;quot;My Domains&amp;quot;, and a page listing all your domains should load. Right next to your newly registered domain there should be a pencil icon, right under the &amp;quot;Edit&amp;quot; table header.&lt;/p&gt;
+&lt;p&gt;Clicking that icon should load the domain summary page:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gist.githubusercontent.com/0-vortex/8c1147b957f88b7ceaa85d3b22843803/raw/58503764c213405e646bcb0815577b5f383eadad/onlydomains-domain-summary.png&quot; alt=&quot;domain summary&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Click the &amp;quot;Edit&amp;quot; button that is next to &amp;quot;Name Server&amp;quot; listing and update your name servers as instructed by CloudFlare:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gist.githubusercontent.com/0-vortex/8c1147b957f88b7ceaa85d3b22843803/raw/58503764c213405e646bcb0815577b5f383eadad/onlydomains-domain-dns-settings.png&quot; alt=&quot;domain dns settings&quot;&gt;&lt;/p&gt;
+
+			
+		</content>
+	</entry>
+	
+	<entry>
+		<title>Part 2: Using CloudFlare to set up DNS</title>
+		<link href="https://update-me.com/posts/secondpost/"/>
+		<updated>2020-12-14T00:00:00+00:00</updated>
+		<id>https://update-me.com/posts/secondpost/</id>
+		<content type="html">
+		  &lt;h2 id=&quot;what-is-cloudflare&quot;&gt;What is CloudFlare &lt;a class=&quot;direct-link&quot; href=&quot;#what-is-cloudflare&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.cloudflare.com/&quot;&gt;&lt;img src=&quot;https://gist.githubusercontent.com/0-vortex/8c1147b957f88b7ceaa85d3b22843803/raw/b04507cbedd3e21055df25c28b281e94bb119117/splash-cloudflare.jpg&quot; alt=&quot;Cloudflare splash logo&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.cloudflare.com/&quot;&gt;Cloudflare&lt;/a&gt; acts as an intermediary between a client and a server, using a reverse proxy to mirror and cache websites. By storing web content for delivery on the closest edge server, it is able to optimize loading times. That also allows it to modify content, such as images and rich text, for better performance.&lt;/p&gt;
+&lt;p&gt;This intermediary design is also how Cloudflare offers a level of filtration for security. By sitting between the client and the hosting server, it can detect malicious traffic, intercept distributed denial-of-service attacks, deflect attacks from bots, remove bot traffic and limit spam.&lt;/p&gt;
+&lt;h2 id=&quot;using-cloudflare&quot;&gt;Using CloudFlare &lt;a class=&quot;direct-link&quot; href=&quot;#using-cloudflare&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The most common use case for CloudFlare is to set it up as a DNS manager and reverse proxy static CDN.&lt;/p&gt;
+&lt;h3 id=&quot;sign-up-for-a-new-account&quot;&gt;Sign up for a new account &lt;a class=&quot;direct-link&quot; href=&quot;#sign-up-for-a-new-account&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;In order to successfully configure a domain to be used with CloudFlare you need to first set up an account.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gist.githubusercontent.com/0-vortex/8c1147b957f88b7ceaa85d3b22843803/raw/e9b2f4bba1d9023c87881108bed95f8b1490683a/cloudflare-register.png&quot; alt=&quot;sign up&quot;&gt;&lt;/p&gt;
+&lt;p&gt;It would be advised to enable multi-factor authentication once your account is also verified by going to &amp;quot;My Profile&amp;quot; and then &amp;quot;Authentication&amp;quot;.&lt;/p&gt;
+&lt;h3 id=&quot;add-a-new-domain&quot;&gt;Add a new domain &lt;a class=&quot;direct-link&quot; href=&quot;#add-a-new-domain&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Now it&#39;s time to add your new domain to CloudFlare:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gist.githubusercontent.com/0-vortex/8c1147b957f88b7ceaa85d3b22843803/raw/e9b2f4bba1d9023c87881108bed95f8b1490683a/cloudflare-add-site.png&quot; alt=&quot;add site&quot;&gt;&lt;/p&gt;
+&lt;p&gt;You will then be presented with an option to select a plan, &amp;quot;Free&amp;quot; for &amp;quot;$0 / month&amp;quot; is enough:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gist.githubusercontent.com/0-vortex/8c1147b957f88b7ceaa85d3b22843803/raw/e9b2f4bba1d9023c87881108bed95f8b1490683a/cloudflare-add-site-plan.png&quot; alt=&quot;add site plan&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;point-ip-to-github-pages&quot;&gt;Point IP to GitHub Pages &lt;a class=&quot;direct-link&quot; href=&quot;#point-ip-to-github-pages&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;CloudFlare will then scan your domain which should have some sensible defaults you can safely delete.&lt;/p&gt;
+&lt;p&gt;Delete all records and then add the GitHub Pages static IPv4 addresses as an &lt;code&gt;A&lt;/code&gt; record for &lt;code&gt;@&lt;/code&gt; (you can leave TTL to auto):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;185.199.108.153&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;185.199.109.153&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;185.199.110.153&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;185.199.111.153&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;https://gist.githubusercontent.com/0-vortex/8c1147b957f88b7ceaa85d3b22843803/raw/e9b2f4bba1d9023c87881108bed95f8b1490683a/cloudflare-add-site-dns.png&quot; alt=&quot;add site dns&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;adjust-ns&quot;&gt;Adjust NS &lt;a class=&quot;direct-link&quot; href=&quot;#adjust-ns&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Final step is to change your existing name servers to the ones provided by CloudFlare:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gist.githubusercontent.com/0-vortex/8c1147b957f88b7ceaa85d3b22843803/raw/e9b2f4bba1d9023c87881108bed95f8b1490683a/cloudflare-add-site-registrar-ns.png&quot; alt=&quot;change name servers&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Make your adjustments and when ready click continue. If you configured your domain as part of the registration process a summary style page should appear, otherwise you will be taken to your new site dashboard.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gist.githubusercontent.com/0-vortex/8c1147b957f88b7ceaa85d3b22843803/raw/e9b2f4bba1d9023c87881108bed95f8b1490683a/cloudflare-add-site-finish.png&quot; alt=&quot;add site summary&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;cdn-configuration&quot;&gt;CDN configuration &lt;a class=&quot;direct-link&quot; href=&quot;#cdn-configuration&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Below are some recommended settings for enabling full SSL compatibility with GitHub Pages.&lt;/p&gt;
+&lt;h3 id=&quot;ssl-settings&quot;&gt;SSL settings &lt;a class=&quot;direct-link&quot; href=&quot;#ssl-settings&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Click on &amp;quot;SSL/TLS&amp;quot; tab and make sure encryption is set to &amp;quot;Full&amp;quot;:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gist.githubusercontent.com/0-vortex/8c1147b957f88b7ceaa85d3b22843803/raw/e9b2f4bba1d9023c87881108bed95f8b1490683a/cloudflare-config-ssl.png&quot; alt=&quot;ssl settings&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Next, click on &amp;quot;Origin Server&amp;quot; and install a new certificate:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gist.githubusercontent.com/0-vortex/8c1147b957f88b7ceaa85d3b22843803/raw/e9b2f4bba1d9023c87881108bed95f8b1490683a/cloudflare-config-ssl-certificate.png&quot; alt=&quot;certificate settings&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;caching&quot;&gt;Caching &lt;a class=&quot;direct-link&quot; href=&quot;#caching&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Click on &amp;quot;Caching&amp;quot; tab and enable HSTS by setting the &amp;quot;Max Age Header&amp;quot; to a relevant maximum and ideally everything else to &amp;quot;On&amp;quot;:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gist.githubusercontent.com/0-vortex/8c1147b957f88b7ceaa85d3b22843803/raw/e9b2f4bba1d9023c87881108bed95f8b1490683a/cloudflare-config-cache.png&quot; alt=&quot;cache settings&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;page-rules&quot;&gt;Page rules &lt;a class=&quot;direct-link&quot; href=&quot;#page-rules&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Last step is to go to &amp;quot;Page Rules&amp;quot; tab and adding a &lt;code&gt;http://*.domain.tld/*&lt;/code&gt; rewrite rule to always use HTTPS:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gist.githubusercontent.com/0-vortex/8c1147b957f88b7ceaa85d3b22843803/raw/e9b2f4bba1d9023c87881108bed95f8b1490683a/cloudflare-config-page-rules.png&quot; alt=&quot;page rules&quot;&gt;&lt;/p&gt;
 
 			
 		</content>

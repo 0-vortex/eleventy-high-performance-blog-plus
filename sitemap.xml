@@ -10,34 +10,8 @@
     
   
   <url>
-    <loc>https://update-me.com/posts/firstpost/</loc>
-    <lastmod>2020-11-27T01:18:20.000Z</lastmod>
-  </url>
-  
-  
-  
-  
-  
-  
-  
-    
-  
-  <url>
-    <loc>https://update-me.com/posts/secondpost/</loc>
-    <lastmod>2020-11-27T01:18:20.000Z</lastmod>
-  </url>
-  
-  
-  
-  
-  
-  
-  
-    
-  
-  <url>
     <loc>https://update-me.com/posts/thirdpost/</loc>
-    <lastmod>2020-11-27T01:18:20.000Z</lastmod>
+    <lastmod>2020-12-16T01:41:42.000Z</lastmod>
   </url>
   
   
@@ -50,7 +24,37 @@
   
   <url>
     <loc>https://update-me.com/posts/fourthpost/</loc>
-    <lastmod>2020-11-27T01:18:20.000Z</lastmod>
+    <lastmod>2020-12-16T01:41:42.000Z</lastmod>
+  </url>
+  
+  
+  
+  
+  
+  
+    
+  
+  
+    
+  
+  <url>
+    <loc>https://update-me.com/posts/firstpost/</loc>
+    <lastmod>2020-12-16T01:41:42.000Z</lastmod>
+  </url>
+  
+  
+  
+  
+  
+  
+    
+  
+  
+    
+  
+  <url>
+    <loc>https://update-me.com/posts/secondpost/</loc>
+    <lastmod>2020-12-16T01:41:42.000Z</lastmod>
   </url>
   
   
@@ -63,7 +67,7 @@
   
   <url>
     <loc>https://update-me.com/about/</loc>
-    <lastmod>2020-11-27T01:18:52.681Z</lastmod>
+    <lastmod>2020-12-16T01:42:00.089Z</lastmod>
   </url>
   
   
@@ -76,7 +80,7 @@
   
   <url>
     <loc>https://update-me.com/admin/</loc>
-    <lastmod>2020-11-27T01:18:52.681Z</lastmod>
+    <lastmod>2020-12-16T01:42:00.089Z</lastmod>
   </url>
   
   
@@ -89,7 +93,7 @@
   
   <url>
     <loc>https://update-me.com/posts/</loc>
-    <lastmod>2020-11-27T01:18:52.681Z</lastmod>
+    <lastmod>2020-12-16T01:42:00.089Z</lastmod>
   </url>
   
   
@@ -102,7 +106,7 @@
   
   <url>
     <loc>https://update-me.com/</loc>
-    <lastmod>2020-11-27T01:18:52.709Z</lastmod>
+    <lastmod>2020-12-16T01:42:00.121Z</lastmod>
   </url>
   
   
@@ -115,7 +119,7 @@
   
   <url>
     <loc>https://update-me.com/page-list/</loc>
-    <lastmod>2020-11-27T01:18:52.713Z</lastmod>
+    <lastmod>2020-12-16T01:42:00.125Z</lastmod>
   </url>
   
   
@@ -128,7 +132,7 @@
   
   <url>
     <loc>https://update-me.com/tags/</loc>
-    <lastmod>2020-11-27T01:18:52.717Z</lastmod>
+    <lastmod>2020-12-16T01:42:00.125Z</lastmod>
   </url>
   
   
@@ -140,8 +144,8 @@
   
   
   <url>
-    <loc>https://update-me.com/tags/another-tag/</loc>
-    <lastmod>2020-11-27T01:18:52.717Z</lastmod>
+    <loc>https://update-me.com/tags/onlydomains/</loc>
+    <lastmod>2020-12-16T01:42:00.125Z</lastmod>
   </url>
   
   
@@ -154,7 +158,7 @@
   
   <url>
     <loc>https://update-me.com/tags/second-tag/</loc>
-    <lastmod>2020-11-27T01:18:52.717Z</lastmod>
+    <lastmod>2020-12-16T01:42:00.125Z</lastmod>
   </url>
   
   
@@ -166,7 +170,7 @@
   
   
   <url>
-    <loc>https://update-me.com/tags/number-2/</loc>
-    <lastmod>2020-11-27T01:18:52.717Z</lastmod>
+    <loc>https://update-me.com/tags/cloudflare/</loc>
+    <lastmod>2020-12-16T01:42:00.125Z</lastmod>
   </url>
 </urlset>
