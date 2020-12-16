@@ -1,54 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<title>Title of the website. Update me.</title>
-	<subtitle>Subtitle. Update me.</subtitle>
+	<title>Industrial Empathy 11ty on GitHub Pages, CloudFlare CDN and Netlify CMS</title>
+	<subtitle>Generic tech feed</subtitle>
 	
-	<link href="https://update-me.com/feed/feed.xml" rel="self"/>
-	<link href="https://update-me.com"/>
-	<updated>2020-12-14T00:00:00+00:00</updated>
-	<id>https://update-me.com</id>
+	<link href="https://avortex.online/feed/feed.xml" rel="self"/>
+	<link href="https://avortex.online"/>
+	<updated>2020-12-16T00:00:00+00:00</updated>
+	<id>https://avortex.online</id>
 	<author>
-		<name>Author Name. Update me.</name>
+		<name>TED Vortex</name>
 		<email></email>
 	</author>
 	
 	<entry>
-		<title>This is my third post.</title>
-		<link href="https://update-me.com/posts/thirdpost/"/>
-		<updated>2018-08-24T00:00:00+00:00</updated>
-		<id>https://update-me.com/posts/thirdpost/</id>
-		<content type="html">
-		  &lt;p&gt;Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.&lt;/p&gt;
-&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;highlight-line&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// this is a command&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;myCommand&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;ins class=&quot;highlight-line highlight-line-add&quot;&gt;	&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; counter &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/ins&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;del class=&quot;highlight-line highlight-line-remove&quot;&gt;	counter&lt;span class=&quot;token operator&quot;&gt;++&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/del&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// Test with a line break above this line.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&#39;Test&#39;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.&lt;/p&gt;
-&lt;h2 id=&quot;section-header&quot;&gt;Section Header &lt;a class=&quot;direct-link&quot; href=&quot;#section-header&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.&lt;/p&gt;
-
-			
-		</content>
-	</entry>
-	
-	<entry>
-		<title>This is my fourth post.</title>
-		<link href="https://update-me.com/posts/fourthpost/"/>
-		<updated>2018-09-30T00:00:00+00:00</updated>
-		<id>https://update-me.com/posts/fourthpost/</id>
-		<content type="html">
-		  &lt;p&gt;Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.&lt;/p&gt;
-&lt;p&gt;Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://cdn.pixabay.com/photo/2020/08/25/11/11/zebra-5516455_1280.jpg&quot; alt=&quot;An image&quot;&gt;&lt;/p&gt;
-&lt;h2 id=&quot;section-header&quot;&gt;Section Header &lt;a class=&quot;direct-link&quot; href=&quot;#section-header&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.&lt;/p&gt;
-
-			
-		</content>
-	</entry>
-	
-	<entry>
 		<title>Part 1: Using OnlyDomains to register a new domain</title>
-		<link href="https://update-me.com/posts/firstpost/"/>
+		<link href="https://avortex.online/posts/firstpost/"/>
 		<updated>2020-12-13T00:00:00+00:00</updated>
-		<id>https://update-me.com/posts/firstpost/</id>
+		<id>https://avortex.online/posts/firstpost/</id>
 		<content type="html">
 		  &lt;h2 id=&quot;what-is-onlydomains&quot;&gt;What is OnlyDomains &lt;a class=&quot;direct-link&quot; href=&quot;#what-is-onlydomains&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.onlydomains.com/&quot;&gt;&lt;img src=&quot;https://gist.githubusercontent.com/0-vortex/8c1147b957f88b7ceaa85d3b22843803/raw/b04507cbedd3e21055df25c28b281e94bb119117/splash-onlydomains.jpg&quot; alt=&quot;OnlyDomains splash logo&quot;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -85,9 +53,9 @@
 	
 	<entry>
 		<title>Part 2: Using CloudFlare to set up DNS</title>
-		<link href="https://update-me.com/posts/secondpost/"/>
+		<link href="https://avortex.online/posts/secondpost/"/>
 		<updated>2020-12-14T00:00:00+00:00</updated>
-		<id>https://update-me.com/posts/secondpost/</id>
+		<id>https://avortex.online/posts/secondpost/</id>
 		<content type="html">
 		  &lt;h2 id=&quot;what-is-cloudflare&quot;&gt;What is CloudFlare &lt;a class=&quot;direct-link&quot; href=&quot;#what-is-cloudflare&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.cloudflare.com/&quot;&gt;&lt;img src=&quot;https://gist.githubusercontent.com/0-vortex/8c1147b957f88b7ceaa85d3b22843803/raw/b04507cbedd3e21055df25c28b281e94bb119117/splash-cloudflare.jpg&quot; alt=&quot;Cloudflare splash logo&quot;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -132,6 +100,32 @@
 &lt;h3 id=&quot;page-rules&quot;&gt;Page rules &lt;a class=&quot;direct-link&quot; href=&quot;#page-rules&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Last step is to go to &amp;quot;Page Rules&amp;quot; tab and adding a &lt;code&gt;http://*.domain.tld/*&lt;/code&gt; rewrite rule to always use HTTPS:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://gist.githubusercontent.com/0-vortex/8c1147b957f88b7ceaa85d3b22843803/raw/e9b2f4bba1d9023c87881108bed95f8b1490683a/cloudflare-config-page-rules.png&quot; alt=&quot;page rules&quot;&gt;&lt;/p&gt;
+
+			
+		</content>
+	</entry>
+	
+	<entry>
+		<title>Part 3: Using GitHub to set up Industrial Empathy</title>
+		<link href="https://avortex.online/posts/thirdpost/"/>
+		<updated>2020-12-15T00:00:00+00:00</updated>
+		<id>https://avortex.online/posts/thirdpost/</id>
+		<content type="html">
+		  &lt;h2 id=&quot;what-is-github&quot;&gt;What is GitHub &lt;a class=&quot;direct-link&quot; href=&quot;#what-is-github&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.github.com/&quot;&gt;&lt;img src=&quot;https://gist.githubusercontent.com/0-vortex/8c1147b957f88b7ceaa85d3b22843803/raw/b04507cbedd3e21055df25c28b281e94bb119117/splash-github.png&quot; alt=&quot;GitHub splash logo&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+			
+		</content>
+	</entry>
+	
+	<entry>
+		<title>Part 4: Using Netlify CMS to write posts</title>
+		<link href="https://avortex.online/posts/fourthpost/"/>
+		<updated>2020-12-16T00:00:00+00:00</updated>
+		<id>https://avortex.online/posts/fourthpost/</id>
+		<content type="html">
+		  &lt;h2 id=&quot;what-is-netlify&quot;&gt;What is Netlify &lt;a class=&quot;direct-link&quot; href=&quot;#what-is-netlify&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.netlify.com/&quot;&gt;&lt;img src=&quot;https://gist.githubusercontent.com/0-vortex/8c1147b957f88b7ceaa85d3b22843803/raw/b04507cbedd3e21055df25c28b281e94bb119117/splash-netlify.png&quot; alt=&quot;Netlify splash logo&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
 			
 		</content>

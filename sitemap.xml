@@ -6,25 +6,14 @@
   
   
   
-  
     
-  
-  <url>
-    <loc>https://update-me.com/posts/thirdpost/</loc>
-    <lastmod>2020-12-16T01:41:42.000Z</lastmod>
-  </url>
-  
-  
-  
-  
-  
   
   
     
   
   <url>
-    <loc>https://update-me.com/posts/fourthpost/</loc>
-    <lastmod>2020-12-16T01:41:42.000Z</lastmod>
+    <loc>https://avortex.online/posts/firstpost/</loc>
+    <lastmod>2020-12-16T03:13:42.000Z</lastmod>
   </url>
   
   
@@ -38,8 +27,8 @@
     
   
   <url>
-    <loc>https://update-me.com/posts/firstpost/</loc>
-    <lastmod>2020-12-16T01:41:42.000Z</lastmod>
+    <loc>https://avortex.online/posts/secondpost/</loc>
+    <lastmod>2020-12-16T03:13:42.000Z</lastmod>
   </url>
   
   
@@ -53,8 +42,23 @@
     
   
   <url>
-    <loc>https://update-me.com/posts/secondpost/</loc>
-    <lastmod>2020-12-16T01:41:42.000Z</lastmod>
+    <loc>https://avortex.online/posts/thirdpost/</loc>
+    <lastmod>2020-12-16T03:13:42.000Z</lastmod>
+  </url>
+  
+  
+  
+  
+  
+  
+    
+  
+  
+    
+  
+  <url>
+    <loc>https://avortex.online/posts/fourthpost/</loc>
+    <lastmod>2020-12-16T03:13:42.000Z</lastmod>
   </url>
   
   
@@ -66,8 +70,8 @@
   
   
   <url>
-    <loc>https://update-me.com/about/</loc>
-    <lastmod>2020-12-16T01:42:00.089Z</lastmod>
+    <loc>https://avortex.online/about/</loc>
+    <lastmod>2020-12-16T03:14:27.596Z</lastmod>
   </url>
   
   
@@ -79,8 +83,8 @@
   
   
   <url>
-    <loc>https://update-me.com/admin/</loc>
-    <lastmod>2020-12-16T01:42:00.089Z</lastmod>
+    <loc>https://avortex.online/admin/</loc>
+    <lastmod>2020-12-16T03:14:27.596Z</lastmod>
   </url>
   
   
@@ -92,8 +96,8 @@
   
   
   <url>
-    <loc>https://update-me.com/posts/</loc>
-    <lastmod>2020-12-16T01:42:00.089Z</lastmod>
+    <loc>https://avortex.online/posts/</loc>
+    <lastmod>2020-12-16T03:14:27.596Z</lastmod>
   </url>
   
   
@@ -105,8 +109,8 @@
   
   
   <url>
-    <loc>https://update-me.com/</loc>
-    <lastmod>2020-12-16T01:42:00.121Z</lastmod>
+    <loc>https://avortex.online/</loc>
+    <lastmod>2020-12-16T03:14:27.628Z</lastmod>
   </url>
   
   
@@ -118,8 +122,8 @@
   
   
   <url>
-    <loc>https://update-me.com/page-list/</loc>
-    <lastmod>2020-12-16T01:42:00.125Z</lastmod>
+    <loc>https://avortex.online/page-list/</loc>
+    <lastmod>2020-12-16T03:14:27.628Z</lastmod>
   </url>
   
   
@@ -131,8 +135,8 @@
   
   
   <url>
-    <loc>https://update-me.com/tags/</loc>
-    <lastmod>2020-12-16T01:42:00.125Z</lastmod>
+    <loc>https://avortex.online/tags/</loc>
+    <lastmod>2020-12-16T03:14:27.628Z</lastmod>
   </url>
   
   
@@ -144,8 +148,8 @@
   
   
   <url>
-    <loc>https://update-me.com/tags/onlydomains/</loc>
-    <lastmod>2020-12-16T01:42:00.125Z</lastmod>
+    <loc>https://avortex.online/tags/onlydomains/</loc>
+    <lastmod>2020-12-16T03:14:27.628Z</lastmod>
   </url>
   
   
@@ -157,8 +161,8 @@
   
   
   <url>
-    <loc>https://update-me.com/tags/second-tag/</loc>
-    <lastmod>2020-12-16T01:42:00.125Z</lastmod>
+    <loc>https://avortex.online/tags/netlify/</loc>
+    <lastmod>2020-12-16T03:14:27.628Z</lastmod>
   </url>
   
   
@@ -170,7 +174,20 @@
   
   
   <url>
-    <loc>https://update-me.com/tags/cloudflare/</loc>
-    <lastmod>2020-12-16T01:42:00.125Z</lastmod>
+    <loc>https://avortex.online/tags/cloudflare/</loc>
+    <lastmod>2020-12-16T03:14:27.628Z</lastmod>
+  </url>
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  <url>
+    <loc>https://avortex.online/tags/github/</loc>
+    <lastmod>2020-12-16T03:14:27.628Z</lastmod>
   </url>
 </urlset>
