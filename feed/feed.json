@@ -1,6 +1,6 @@
 {
   "version": "https://jsonfeed.org/version/1",
-  "title": "Industrial Empathy 11ty on GitHub Pages, CloudFlare CDN and Netlify CMS",
+  "title": "IE 11ty on GitHub Pages, CloudFlare CDN and Netlify CMS",
   "home_page_url": "https://avortex.online",
   "feed_url": "https://avortex.online/feed/feed.json",
   "description": "How to set up Industrial Empathy (IE) Eleventy (11ty) template on GitHub (GH) Pages behind CloudFlare (CF) Edge CDN and edit markdown using Netlify CMS",

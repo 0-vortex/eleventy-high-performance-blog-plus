@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<title>Industrial Empathy 11ty on GitHub Pages, CloudFlare CDN and Netlify CMS</title>
+	<title>IE 11ty on GitHub Pages, CloudFlare CDN and Netlify CMS</title>
 	<subtitle>Generic tech feed</subtitle>
 	
 	<link href="https://avortex.online/feed/feed.xml" rel="self"/>
