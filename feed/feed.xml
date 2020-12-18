@@ -113,6 +113,16 @@
 		<content type="html">
 		  &lt;h2 id=&quot;what-is-github&quot;&gt;What is GitHub &lt;a class=&quot;direct-link&quot; href=&quot;#what-is-github&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.github.com/&quot;&gt;&lt;img src=&quot;https://gist.githubusercontent.com/0-vortex/8c1147b957f88b7ceaa85d3b22843803/raw/b04507cbedd3e21055df25c28b281e94bb119117/splash-github.png&quot; alt=&quot;GitHub splash logo&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;using-github&quot;&gt;Using GitHub &lt;a class=&quot;direct-link&quot; href=&quot;#using-github&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;sign-up-for-a-new-account&quot;&gt;Sign up for a new account &lt;a class=&quot;direct-link&quot; href=&quot;#sign-up-for-a-new-account&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;create-a-new-repository-from-ie-11ty&quot;&gt;Create a new repository from IE 11ty &lt;a class=&quot;direct-link&quot; href=&quot;#create-a-new-repository-from-ie-11ty&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://gist.githubusercontent.com/0-vortex/8c1147b957f88b7ceaa85d3b22843803/raw/e9b2f4bba1d9023c87881108bed95f8b1490683a/github-create-repo.png&quot; alt=&quot;create repo&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;deploy-on-push-with-actions&quot;&gt;Deploy on push with Actions &lt;a class=&quot;direct-link&quot; href=&quot;#deploy-on-push-with-actions&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;setup-custom-domain-links&quot;&gt;Setup custom domain links &lt;a class=&quot;direct-link&quot; href=&quot;#setup-custom-domain-links&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;register-oauth-application&quot;&gt;Register OAuth application &lt;a class=&quot;direct-link&quot; href=&quot;#register-oauth-application&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://gist.githubusercontent.com/0-vortex/8c1147b957f88b7ceaa85d3b22843803/raw/e9b2f4bba1d9023c87881108bed95f8b1490683a/github-register-oauth.png&quot; alt=&quot;register oauth&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gist.githubusercontent.com/0-vortex/8c1147b957f88b7ceaa85d3b22843803/raw/e9b2f4bba1d9023c87881108bed95f8b1490683a/github-register-oauth-callback-url.png&quot; alt=&quot;register oauth callback&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gist.githubusercontent.com/0-vortex/8c1147b957f88b7ceaa85d3b22843803/raw/e9b2f4bba1d9023c87881108bed95f8b1490683a/github-register-oauth-success.png&quot; alt=&quot;register oauth success&quot;&gt;&lt;/p&gt;
 
 			
 		</content>
@@ -126,6 +136,24 @@
 		<content type="html">
 		  &lt;h2 id=&quot;what-is-netlify&quot;&gt;What is Netlify &lt;a class=&quot;direct-link&quot; href=&quot;#what-is-netlify&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.netlify.com/&quot;&gt;&lt;img src=&quot;https://gist.githubusercontent.com/0-vortex/8c1147b957f88b7ceaa85d3b22843803/raw/b04507cbedd3e21055df25c28b281e94bb119117/splash-netlify.png&quot; alt=&quot;Netlify splash logo&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;using-netlify&quot;&gt;Using Netlify &lt;a class=&quot;direct-link&quot; href=&quot;#using-netlify&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;sign-up-for-a-new-account&quot;&gt;Sign up for a new account &lt;a class=&quot;direct-link&quot; href=&quot;#sign-up-for-a-new-account&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;create-a-new-site-from-git&quot;&gt;Create a new site from git &lt;a class=&quot;direct-link&quot; href=&quot;#create-a-new-site-from-git&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://gist.githubusercontent.com/0-vortex/8c1147b957f88b7ceaa85d3b22843803/raw/e9b2f4bba1d9023c87881108bed95f8b1490683a/netlify-create-new-site.png&quot; alt=&quot;create site&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gist.githubusercontent.com/0-vortex/8c1147b957f88b7ceaa85d3b22843803/raw/e9b2f4bba1d9023c87881108bed95f8b1490683a/netlify-create-new-site-success.png&quot; alt=&quot;create site success&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;disable-deployment&quot;&gt;Disable deployment &lt;a class=&quot;direct-link&quot; href=&quot;#disable-deployment&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://gist.githubusercontent.com/0-vortex/8c1147b957f88b7ceaa85d3b22843803/raw/e9b2f4bba1d9023c87881108bed95f8b1490683a/netlify-create-new-site-cancel-deploy.png&quot; alt=&quot;cancel deploy&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gist.githubusercontent.com/0-vortex/8c1147b957f88b7ceaa85d3b22843803/raw/e9b2f4bba1d9023c87881108bed95f8b1490683a/netlify-create-new-site-deploy-settings.png&quot; alt=&quot;deploy settings&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;disable-building&quot;&gt;Disable building &lt;a class=&quot;direct-link&quot; href=&quot;#disable-building&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://gist.githubusercontent.com/0-vortex/8c1147b957f88b7ceaa85d3b22843803/raw/e9b2f4bba1d9023c87881108bed95f8b1490683a/netlify-app-stop-building.png&quot; alt=&quot;cancel build&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gist.githubusercontent.com/0-vortex/8c1147b957f88b7ceaa85d3b22843803/raw/e9b2f4bba1d9023c87881108bed95f8b1490683a/netlify-app-disable-context.png&quot; alt=&quot;disable context&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;add-custom-domain&quot;&gt;Add custom domain &lt;a class=&quot;direct-link&quot; href=&quot;#add-custom-domain&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://gist.githubusercontent.com/0-vortex/8c1147b957f88b7ceaa85d3b22843803/raw/e9b2f4bba1d9023c87881108bed95f8b1490683a/netlify-app-add-custom-deployment-domain.png&quot; alt=&quot;add custom domain&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gist.githubusercontent.com/0-vortex/8c1147b957f88b7ceaa85d3b22843803/raw/e9b2f4bba1d9023c87881108bed95f8b1490683a/netlify-app-add-custom-deployment-domain-sandbox.png&quot; alt=&quot;add custom domain confirm&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gist.githubusercontent.com/0-vortex/8c1147b957f88b7ceaa85d3b22843803/raw/e9b2f4bba1d9023c87881108bed95f8b1490683a/netlify-app-custom-domains-overview.png&quot; alt=&quot;custom domains overview&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;add-github-oauth-provider&quot;&gt;Add GitHub OAuth provider &lt;a class=&quot;direct-link&quot; href=&quot;#add-github-oauth-provider&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://gist.githubusercontent.com/0-vortex/8c1147b957f88b7ceaa85d3b22843803/raw/e9b2f4bba1d9023c87881108bed95f8b1490683a/netlify-app-access-control-add-github-oauth.png&quot; alt=&quot;add github oauth&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gist.githubusercontent.com/0-vortex/8c1147b957f88b7ceaa85d3b22843803/raw/e9b2f4bba1d9023c87881108bed95f8b1490683a/netlify-app-access-control-add-github-oauth-install-modal.png&quot; alt=&quot;github oauth provider&quot;&gt;&lt;/p&gt;
 
 			
 		</content>
